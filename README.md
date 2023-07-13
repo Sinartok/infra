@@ -1,2 +1,0 @@
-# infras
-TP Terraform
