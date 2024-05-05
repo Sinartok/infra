@@ -1,1 +1,2 @@
 server web-erwan 10.92.18.148:90 check
+server web-projet 10.94.214.250:80 check
