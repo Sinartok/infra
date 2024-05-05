@@ -1,2 +1,0 @@
-server web-projet 10.26.206.219:80 check
-server web-projet 10.85.74.102:80 check
